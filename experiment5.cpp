@@ -32,7 +32,7 @@ public:
     }
     void pop()
     {
-                node *ptr=top;
+                node *ptr=top; 
                 top=top->next;
                 delete(ptr);
 
