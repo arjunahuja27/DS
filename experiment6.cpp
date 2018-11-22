@@ -33,7 +33,7 @@ public:
     return arr[top1+1];
    }
    void  peep()
-  {
+  { 
     if(top1 == -1)
         cout<<"Stack Empty"<<endl;
     else
