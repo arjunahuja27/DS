@@ -35,7 +35,7 @@ void inorder(struct node *root)
         inorder(root->left);
         cout<<root->data<<" ";
         inorder(root->right);
-    }
+    } 
 }
 
 void preorder(struct node *root)
