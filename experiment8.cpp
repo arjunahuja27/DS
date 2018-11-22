@@ -36,7 +36,7 @@ public:
         n=n+1;
         insertion_sort();
     }
-    void display()
+    void display() 
     {
         for(int i=0;i<n;i++)
         {
