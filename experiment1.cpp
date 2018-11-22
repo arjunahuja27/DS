@@ -32,7 +32,7 @@ int main()
 				a[pos-1]=b;
 				n++;
 				break;
-			case 2:
+			case 2: 
 				cout<<"Enter the position from which you want to delete the element"<<endl;
 				int p;
 				cin>>p;
