@@ -36,7 +36,7 @@ int main()
 				int temp=a[i];
 				a[i]=a[j];
 				a[j]=temp;
-			}
+			} 
 		}
 	}
 	cout<<"The array after sorting is"<<endl;
