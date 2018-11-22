@@ -34,7 +34,7 @@ void circular_queue :: Enqueue()
     temp->next=front;
     if(front==NULL&& rear==NULL)
     {
-        front=temp;
+        front=temp;  
         temp->next=front;
         rear=temp;
         c=c+1;
