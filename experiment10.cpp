@@ -25,7 +25,7 @@ while ( q < N) {
     return c;
 }
 
-int main()
+int main() 
 {
     int i,M,N;
     cin >> M >> N;
