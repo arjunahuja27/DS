@@ -32,7 +32,7 @@ void quicksort(int a[],int low,int high)
 int main()
 {
        int a[20];
-       int n;
+       int n; 
         cout<<"Size : ";
         cin>>n;
         for(int i=0;i<n;i++)
